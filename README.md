@@ -12,8 +12,8 @@ Cython extension).
 Clone the repository and enter it:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/i-to-the-power-i/dpe-version-1/
+cd dpe-version-1/
 ```
 
 Replace `<repository-url>` with this repository's Git URL and
