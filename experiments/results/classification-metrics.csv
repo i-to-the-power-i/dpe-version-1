@@ -1,0 +1,31 @@
+experiment,model,n,positive_class,precision,recall,f1_score
+Experiment 1: delayed bitflip,DPE,7000,X -> Y,1.000000,0.998000,0.998999
+Experiment 1: delayed bitflip,GC,7000,X -> Y,1.000000,0.230857,0.375116
+Experiment 1: delayed bitflip,LZP,7000,X -> Y,1.000000,0.288143,0.447377
+Experiment 1: delayed bitflip,TE,7000,X -> Y,1.000000,0.396857,0.568214
+Experiment 1b: stochastic delayed bitflip,CCM_raw,7000,X -> Y,1.000000,0.542714,0.703584
+Experiment 1b: stochastic delayed bitflip,CCM_surrogate,7000,X -> Y,1.000000,0.020571,0.040314
+Experiment 1b: stochastic delayed bitflip,DPE,7000,X -> Y,1.000000,0.819714,0.900926
+Experiment 1b: stochastic delayed bitflip,DPE_raw,7000,X -> Y,1.000000,1.000000,1.000000
+Experiment 1b: stochastic delayed bitflip,ETCE,7000,X -> Y,0.000000,0.000000,0.000000
+Experiment 1b: stochastic delayed bitflip,ETCE_raw,7000,X -> Y,1.000000,0.976286,0.988001
+Experiment 1b: stochastic delayed bitflip,ETCP,7000,X -> Y,1.000000,0.104000,0.188406
+Experiment 1b: stochastic delayed bitflip,ETCP_raw,7000,X -> Y,1.000000,0.713571,0.832847
+Experiment 1b: stochastic delayed bitflip,GC,7000,X -> Y,1.000000,0.282714,0.440806
+Experiment 1b: stochastic delayed bitflip,GC_raw,7000,X -> Y,1.000000,0.808857,0.894329
+Experiment 1b: stochastic delayed bitflip,LZP,7000,X -> Y,1.000000,0.045143,0.086386
+Experiment 1b: stochastic delayed bitflip,LZP_raw,7000,X -> Y,1.000000,1.000000,1.000000
+Experiment 1b: stochastic delayed bitflip,TE,7000,X -> Y,1.000000,0.365143,0.534952
+Experiment 1b: stochastic delayed bitflip,TE_raw,7000,X -> Y,1.000000,0.663000,0.797354
+Experiment 2: AR(1),DPE,20000,Y -> X,0.996543,0.832778,0.907330
+Experiment 2: AR(1),GC,20000,Y -> X,0.994648,0.949944,0.971783
+Experiment 2: AR(1),LZP,20000,Y -> X,0.977713,0.874944,0.923478
+Experiment 2: AR(1),TE,20000,Y -> X,0.995668,0.995944,0.995806
+Experiment 3: coupled skewtent,DPE,20000,Y -> X,0.885910,0.862778,0.874191
+Experiment 3: coupled skewtent,GC,20000,Y -> X,0.968075,0.166778,0.284536
+Experiment 3: coupled skewtent,LZP,20000,Y -> X,0.092559,0.011333,0.020194
+Experiment 3: coupled skewtent,TE,20000,Y -> X,0.995817,0.581944,0.734598
+Experiment 4: predator-prey,DPE,1,Y -> X,1.000000,1.000000,1.000000
+Experiment 4: predator-prey,GC,1,Y -> X,0.000000,0.000000,0.000000
+Experiment 4: predator-prey,LZP,1,Y -> X,1.000000,1.000000,1.000000
+Experiment 4: predator-prey,TE,1,Y -> X,1.000000,1.000000,1.000000
